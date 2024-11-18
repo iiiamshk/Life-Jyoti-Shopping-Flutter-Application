@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "729468718032",
+    "project_id": "life-jyoti-36abf",
+    "storage_bucket": "life-jyoti-36abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729468718032:android:65cad1c1157bc82fe307d5",
+        "android_client_info": {
+          "package_name": "com.inhr.life_jyoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729468718032-brtr6psh2m2k5q7g1hm7284bfr24dv4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.life_jyoti",
+            "certificate_hash": "3c6d830b6f20ab191ef790109a2efac6a88edbb2"
+          }
+        },
+        {
+          "client_id": "729468718032-eekcdaj5k47oq6bl04frqodt509fsu5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.life_jyoti",
+            "certificate_hash": "3c6af5d32188f5f75c0c46619e43b8e4fd48ca43"
+          }
+        },
+        {
+          "client_id": "729468718032-urktm0udgvdl73va38jnh16bf1ce72pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.life_jyoti",
+            "certificate_hash": "2a55b471df059770dd53e510794a91d47acadd68"
+          }
+        },
+        {
+          "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJKsycSImCb4-RXPi9DXhSYFRSm_MrsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729468718032:android:0ac42ac464762b38e307d5",
+        "android_client_info": {
+          "package_name": "com.inhr.lifejyoti_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729468718032-qbue3ehbtiqt5v02v03jqonrb4odcand.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.lifejyoti_delivery",
+            "certificate_hash": "e6d8c643f871649e11631a0c7ac757298abce48a"
+          }
+        },
+        {
+          "client_id": "729468718032-r1j98o1447oij7ckvgu5bdiv1mfi78bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.lifejyoti_delivery",
+            "certificate_hash": "2a55b471df059770dd53e510794a91d47acadd68"
+          }
+        },
+        {
+          "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJKsycSImCb4-RXPi9DXhSYFRSm_MrsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729468718032:android:c18070c7eeebf255e307d5",
+        "android_client_info": {
+          "package_name": "com.inhr.lifejyoti_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729468718032-nmju91p0pdpcueovm94k5fni8am8q2ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.lifejyoti_vendor",
+            "certificate_hash": "2a55b471df059770dd53e510794a91d47acadd68"
+          }
+        },
+        {
+          "client_id": "729468718032-v2cglqmdcsbipm7neg152k03b04sbtr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhr.lifejyoti_vendor",
+            "certificate_hash": "99d9e1186ecb3fb34a487183402915510791ad76"
+          }
+        },
+        {
+          "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJKsycSImCb4-RXPi9DXhSYFRSm_MrsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729468718032-5ru3s3jk5pm7kpg1tuguhm77f8tfg05m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
